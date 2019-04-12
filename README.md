@@ -1,6 +1,6 @@
 # machine-learning-101
 
-This repository contains a Jupyter notebook with basic commands for inspecting your data.
+This repository contains Jupyter notebooks for learning the basics of Machine Learning.
 
 ## Notebooks
 Notebook: `inspecting-data` <br/>
