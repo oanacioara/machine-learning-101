@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter notebook with basic commands for inspecting your data.
 
-## How to run?
+## Notebooks
+* inspecting-data - contains basic commands for inspecting the structure and quality of your data sets
+Execute the `run.sh` script. Go to `http://localhost:8888/?token=<token>`. The `<token>` will be printed in the console.
 
-In your terminal run the `run.sh` script. It will start a `jupyter/scipy-notebook` docker container that maps the current directory of the host to the `~/work` directory of the container. You can access the `Jupyter` notebook at `http://localhost:8888/?token=<token>`. The `<token>` will be printed in the console.
+* tf-simple-operations - contains basic TensorFlow evaluations
+Execute `tfrun.sh` script. Go to `http://localhost:8888/?token=<token>`. The `<token>` will be printed in the console.
