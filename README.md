@@ -3,9 +3,9 @@
 This repository contains Jupyter notebooks for learning the basics of Machine Learning.
 
 ## Notebooks
-Notebook: `inspecting-data` <br/>
+Notebook: `machine-learning/inspecting-data` <br/>
 Description: contains basic commands for inspecting the structure and quality of your data sets <br/>
-Open: `run.sh`</br>
+Open: `schipyrun.sh`</br>
 
 Notebook: `tf-simple-operations` <br/>
 Description: contains basic TensorFlow evaluations <br/>
