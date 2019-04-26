@@ -3,10 +3,10 @@
 This repository contains Jupyter notebooks for learning the basics of Machine Learning. Each notebook has a run script that will start a docker container with the appropriate environment for the Jupyter server.
 
 ## Basic Machine Learning Concepts
-*training dataset* - the data you use for training your model
-*test dataset* - the data you use to test your model
-*features* - the attributes of your data that are used by the model as input
-*label(s)* - the attribute(s) of your data that the model is trying to predict
+*training dataset* - the data you use for training your model <br/>
+*test dataset* - the data you use to test your model <br/>
+*features* - the attributes of your data that are used by the model as input <br/>
+*label(s)* - the attribute(s) of your data that the model is trying to predict <br/>
 
 ## Workflow of solving a machine learning problem
 1. Analyse and improve the quality of your data
