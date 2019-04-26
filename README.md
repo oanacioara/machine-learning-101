@@ -7,8 +7,8 @@ Notebook: `machine-learning/inspecting-data/inspecting-data.ipynb` <br/>
 Description: contains basic commands for inspecting the structure and quality of your data sets <br/>
 Run: `schipyrun.sh`</br>
 
-Notebook: `machine-learning/linear-regression/linear-regression.ipynb` <br\>
-Description: contains a simple example of training a model using Linear Regression <br\>
+Notebook: `machine-learning/linear-regression/linear-regression.ipynb` <br/>
+Description: contains a simple example of training a model using Linear Regression <br/>
 Run: `schipyrun.sh`</br>
 
 Notebook: `tensor-flow/tf-simple-operations` <br/>
