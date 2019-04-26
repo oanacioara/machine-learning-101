@@ -33,4 +33,5 @@ Notebook: `tensor-flow/tf-simple-operations` <br/>
 Description: contains basic TensorFlow evaluations <br/>
 Run: `tfrun.sh`
 
-Author: Oana Cioara
+*Author: Oana Cioara <br/>
+Copyright: The content of this repository is public. You are allowed to access the "source-code" and use it as you wish, for study or change it for personal use.*
